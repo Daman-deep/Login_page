@@ -36,4 +36,4 @@ class splashScreenState extends State<splashScreen>{
 
   }
 
-}//
+}
