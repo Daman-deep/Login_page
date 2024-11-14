@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:login_page/forget_password_page.dart';
+import 'package:login_page/main_page.dart';
 import 'package:login_page/splash_screen_page.dart';
 
 void main() {
@@ -74,7 +75,7 @@ class LoginPage extends StatelessWidget {
                     SizedBox(height: 16),
                     ElevatedButton(
                       onPressed: () {
-                        
+
                       },
                       child: Text('Sign In'),
                       style: ElevatedButton.styleFrom(

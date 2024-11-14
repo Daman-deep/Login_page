@@ -69,7 +69,7 @@ class ForgetPasswordState extends State<ForgetPassword>{
               ),
               Padding(
                 padding: const EdgeInsets.all(21.0),
-                child: Text('You may recieve WhatsApp and SMS notification from us for security ',style: TextStyle(fontSize: 16,color: Colors.black54),),
+                child: Text('You may recieve WhatsApp and SMS notification from us for security purpose ',style: TextStyle(fontSize: 16,color: Colors.black54),),
               ),
             ],
           ),
